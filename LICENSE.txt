@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2025 sahanaz .D (https://codepen.io/sahanaz-D-the-animator/pen/azvPKyp)
+Copyright (c) 2025 tc24bsccsai20 -(https://codepen.io/tc24bsccsai20/pen/qEOwEKw)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
